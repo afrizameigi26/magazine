@@ -8,4 +8,6 @@ php artisan key:generate
 
 php artisan migrate
 
+setup database at your .env
+
 php artisan serve
