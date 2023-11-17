@@ -1,4 +1,4 @@
-git clone https://github.com/nama-username/nama-repo.git
+git clone https://github.com/afrizameigi26/magazine.git
 
 cd magazine
 
