@@ -1,8 +1,4 @@
-git clone https://github.com/afrizameigi26/magazine.git
-
-cd magazine
-
-git checkout master
+git clone -b master https://github.com/afrizameigi26/magazine.git
 
 cp .env.example .env
 
